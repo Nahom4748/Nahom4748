@@ -3,13 +3,18 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer who loves bu
 
 🚀 About Me
 🔧 Skills: React, Node.js, Express, MongoDB, MySQL, Tailwind CSS, Bootstrap, Next.js
+
 🌟 Currently: Working on various web projects, improving my skills, and exploring new technologies.
+
 📚 Learning: Always diving into new frameworks and tools to stay ahead in the tech world.
+
 🛠️ Technologies & Tools
 Front-end: React, Next.js, Tailwind CSS, Bootstrap
 Back-end: Node.js, Express
 Databases: MongoDB, MySQL
 Tools: Git, GitHub, VSCode
+
+
 💼 Projects
 Portfolio Website: A personal website showcasing my projects and skills.
 Blog Platform: A full-stack blog platform with user authentication and CRUD operations.
